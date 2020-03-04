@@ -1,6 +1,0 @@
-import math
-a = float (input("Введите "))
-z1 = math.cos(a)+math.sin(a)+3*math.cos(a)+3*math.sin(a)
-z2 = 1/4-1/4*math.sin(5/2*3.14-8*a)
-print(z1)
-print(z2)
